@@ -1,0 +1,28 @@
+.footer{
+	margin: 10px 0 40px;
+	padding: 0;
+	.footer-menu{
+		list-style: none;
+		padding: 0;
+		li{
+			display: inline-block;
+			a{
+				padding: 0 10px 0 0;
+			}
+		}
+	}
+	.copyright{
+		margin-right: 10px;
+        img{
+            float: left;
+            width: 40px;
+            height: auto;
+            margin-right: 10px;
+        }
+		i{
+			display: block;
+			font-size: 0.778rem;
+			color: $darkgray;
+		}
+	}
+}
