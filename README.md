@@ -4,7 +4,7 @@ A Free, Open-Source &amp; Minimal Wordpress Theme
 ![Screenshot](screenshot.png)
 
 ## How to Download
-Checkout releases page https://github.com/arazgholami/rebellion/releases
+Checkout releases page https://github.com/arazgholami/grayboy/releases
 
 ## Contribution
 Any contribution are welcome.
